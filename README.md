@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Oluga Neluvhalani 👋</h1>
+<h1 align="center"> Oluga Neluvhalani </h1>
 
 <p align="center">
   Software developer and founder of <a href="https://Nelxtechnologies.co.za"><b>Nelx Technologies</b></a><br>
