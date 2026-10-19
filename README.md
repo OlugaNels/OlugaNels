@@ -51,6 +51,8 @@
 | [**RouteWise SA**](https://github.com/OlugaNels/routewise-sa) | Real-time road alert app for Gauteng. Drivers report hazards and see live alerts on a map; an admin web dashboard monitors incidents. [Demo video](https://youtu.be/6SSjHJxOnwA) | Kotlin, Firebase Auth and Firestore, Room, OpenStreetMap, GitHub Actions |
 | [**REPENT**](https://github.com/OlugaNels/REPENT) | One repository, four parts on one MySQL database: website, PHP REST API, native Android app and automated tests. | Kotlin, Jetpack Compose, PHP, MySQL, Docker, Render, GitHub Actions |
 | [**Gift of the Givers**](https://github.com/OlugaNels/gift-of-the-givers) | ASP.NET Core MVC site for donations, relief projects and volunteers, with employee and volunteer accounts. | C#, .NET 8, Entity Framework Core, SQL Server, ASP.NET Core Identity |
+| [**SmartSpenda**](https://github.com/OlugaNels/smartspenda) | Android personal finance app: track expenses, set budgets, capture receipts and get spending insights. | Kotlin, Room, MPAndroidChart, Material Design 3 |
+| [**Cybersecurity Awareness Chatbot**](https://github.com/OlugaNels/chatbot-p2) | Console chatbot that teaches cybersecurity topics, with keyword recognition, memory, sentiment detection and voice replies. | C#, .NET, GitHub Actions |
 
 ## 📊 GitHub stats
 
